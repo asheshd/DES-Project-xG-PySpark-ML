@@ -1,8 +1,9 @@
 # DES-Project-xG-PySpark-ML
-DES Project Extended Goals with PySpark Machnie Learning
+DES Project Expected Goals with PySpark Machnie Learning
 
 * Used Gradient-Boosted Trees (GBTs) Classifier
-* Test Accuracy is 91%
+* Test Accuracy is ~0.94
+* RMSE is 0.248
 
 ##  **How to run**
 1. Upload refined_goal_dataset.csv from https://github.com/asheshd/DES-Project-xG-PySpark-ML/blob/main/refined_goal_dataset.csv path to the Google Drive homepage.
